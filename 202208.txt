@@ -1,14 +1,18 @@
 ◆作業進捗
-　環境構築と。
+　環境構築とWebページ作成のチュートリアルを実施したのみ
 
-　事前報告通りの環境で進めています。
+　事前報告通りの環境で進めています。下記はインストール済。
 　フロント		：Nuxt.js
 　DB			：postgres
 　地図ライブラリ：OpenLayers、Geoserver
-　GitHub		：https://github.com/gitokoge/GIS（一応立てていますが、空です）
+　GitHub		：https://github.com/gitokoge
 
 ◆8月実施内容
 　・Vue.jsでWebページ作成のチュートリアルを実施（ボタンの配置や遷移のテストなど）
 　・OpenLayersの地図を表示
 
 　図形の表示や編集は実施できていません。
+
+◆その他
+　ドキュメント→https://github.com/gitokoge/01_doc
+　コーディングしたらこちら更新予定→https://github.com/gitokoge/02_pg
